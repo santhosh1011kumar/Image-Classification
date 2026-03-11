@@ -10,7 +10,7 @@ Include the Problem Statement and Dataset.
 
 ## Neural Network Model
 
-c:\Users\admin\OneDrive\图片\Screenshots\Screenshot 2026-03-11 211803.png
+![alt text](image-4.png)
 
 ## DESIGN STEPS
 
